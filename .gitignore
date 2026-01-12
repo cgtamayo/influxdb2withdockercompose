@@ -1,0 +1,8 @@
+# Secrets
+.env
+
+# InfluxDB Data
+data/
+
+# OS files
+.DS_Store
